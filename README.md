@@ -1,4 +1,5 @@
-🔗 Project URL: https://github.com/Divya-Dharshu/number-guessing-game
+Project Page URL
+https://github.com/Divya-Dharshu/number-guessing-game
 
 
 # 🎯 Number Guessing Game (CLI)
