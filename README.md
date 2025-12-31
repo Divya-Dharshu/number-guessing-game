@@ -96,6 +96,7 @@ B.Tech – Computer Science and Business Systems
 
 
 👉 Replace `your-username` with your **GitHub username** later.
+Thankyou!
 
 ---
 
