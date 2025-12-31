@@ -1,4 +1,4 @@
-Project Page URL
+
 https://github.com/Divya-Dharshu/number-guessing-game
 
 
