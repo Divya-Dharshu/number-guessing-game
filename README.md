@@ -1,8 +1,8 @@
-# 🎯 Number Guessing Game (CLI)
-# Number Guessing Game 🎯
-
 🔗 Project URL: https://github.com/Divya-Dharshu/number-guessing-game
 
+
+# 🎯 Number Guessing Game (CLI)
+# Number Guessing Game 🎯
 
 A simple **Command Line Interface (CLI)** based Number Guessing Game built using **Node.js**.  
 The computer randomly selects a number between **1 and 100**, and the user has to guess it within limited chances based on difficulty level.
